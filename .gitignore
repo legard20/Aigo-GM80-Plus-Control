@@ -1,0 +1,12 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+*.exe
+*.db
+settings.json
+custom_icon.ico
+.venv/
+venv/
